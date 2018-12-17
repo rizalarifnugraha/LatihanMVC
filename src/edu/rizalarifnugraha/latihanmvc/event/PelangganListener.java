@@ -10,6 +10,9 @@ import edu.rizalarifnugraha.latihanmvc.model.PelangganModel;
 /**
  *
  * @author acer
+ * Nama : Rizal Arif Nugraha
+ * NIM  : 10117048
+ * Kelas : IF-2
  */
 public interface PelangganListener {
     
