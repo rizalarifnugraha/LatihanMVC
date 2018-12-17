@@ -11,6 +11,9 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author acer
+ * Nama : Rizal Arif Nugraha
+ * NIM  : 10117048
+ * Kelas : IF-2
  */
 public class PelangganModel {
 
