@@ -8,6 +8,9 @@ package edu.rizalarifnugraha.latihanmvc.model;
 /**
  *
  * @author acer
+ * Nama : Rizal Arif Nugraha
+ * NIM  : 10117048
+ * Kelas : IF-2
  */
 public class LatihanMVC {
 
